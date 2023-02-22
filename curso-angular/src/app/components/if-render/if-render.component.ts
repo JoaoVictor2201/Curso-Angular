@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class IfRenderComponent {
 
-  canShow: boolean = true
+  canShow: boolean = true;
+  name: string = 'João'
 
 }
