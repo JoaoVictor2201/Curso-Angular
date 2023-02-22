@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class DirectivesComponent {
 
+  size = 40
+  font = 'Arial'
+  color = 'red'
+
+  classes = ['green', 'small']
+
 }
